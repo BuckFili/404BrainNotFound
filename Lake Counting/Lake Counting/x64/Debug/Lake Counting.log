@@ -1,0 +1,3 @@
+﻿  Lake Counting.cpp
+C:\Users\28992\source\repos\Lake Counting\Lake Counting\Lake Counting.cpp(39): warning C4715: “ExplorePond”: 不是所有的控件路径都返回值
+  Lake Counting.vcxproj -> C:\Users\28992\source\repos\Lake Counting\x64\Debug\Lake Counting.exe
